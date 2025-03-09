@@ -10,29 +10,61 @@
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
   <div>
     <h3>💬 Ask me about | Hãy hỏi tôi về:</h3>
-    <div>
-      LLMOps, DevOps, SecOps, CI/CD Pipespanne
-      - Test Automation with BDD Framework, Browser Automation
-      - Prompt Engineering
-      - OpenAI, Anthopric, Perplexity, DeepSeek, Gemini, xAI (Grok), Heygen, Sesame, Hume, browse-use, Claude code, aider, Cline, imagen3, Elevenlabs, Mistral, Supabase, Boltnew, Firecrawl, Openroute, Grog, Ollama, Huggingface
+    <div style="animation: fadeIn 2s ease-in-out; line-height: 1.6;">
+      <div style="font-size: 1.2em; color: #2F81F7; margin-bottom: 15px; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">
+        LLMOps, DevOps, SecOps, CI/CD Pipespanne
+      </div>
+      <div style="padding-left: 20px; animation: slideIn 1.5s ease-out;">
+        <div style="color: #238636; margin: 8px 0; transform: translateX(0); transition: transform 0.3s ease;">
+          - Test Automation with BDD Framework, Browser Automation
+        </div>
+        <div style="color: #FF6B6B; margin: 8px 0; transform: translateX(0); transition: transform 0.3s ease;">
+          - Prompt Engineering
+        </div>
+        <div style="color: #6E5494; margin: 8px 0; transform: translateX(0); transition: transform 0.3s ease; line-height: 1.4;">
+          - OpenAI, Anthopric, Perplexity, DeepSeek, Gemini, xAI (Grok), Heygen, Sesame, Hume, browse-use, Claude code, aider, Cline, imagen3, Elevenlabs, Mistral, Supabase, Boltnew, Firecrawl, Openroute, Grog, Ollama, Huggingface
+        </div>
+      </div>
     </div>
   </div>
 
-<img src="paulpham157-avatar.png" alt="Profile Avatar" width="45%" heigh="45%">
+<img src="paulpham157-avatar-4x6.png" alt="Profile Avatar" width="45%" heigh="45%">
 
   <div>
     <h3>🌱 I'm interesting with | Tôi quan tâm đến:</h3>
-    <div>
-      Large Language Models (LLM)
-      - Retrieval Augmented Generation (RAG)
-      - Deep Research
-      - Text-to-Speech (TTS)
-      - Streaming Technologies
-      - Image AI Generation
-      - Voice Cloning
-      - Video AI Generation
-      - AI Agents & Automation
-      - Workflow Optimization
+    <div style="animation: fadeIn 2s ease-in-out; line-height: 1.8;">
+      <div style="font-size: 1.3em; color: #2F81F7; margin-bottom: 15px; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">
+        Large Language Models (LLM)
+      </div>
+      <div style="padding-left: 20px; animation: slideIn 1.5s ease-out;">
+        <div style="color: #238636; margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
+          - Retrieval Augmented Generation (RAG)
+        </div>
+        <div style="color: #FF6B6B; margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
+          - Deep Research
+        </div>
+        <div style="color: #6E5494; margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
+          - Text-to-Speech (TTS)
+        </div>
+        <div style="color: #2F81F7; margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
+          - Streaming Technologies
+        </div>
+        <div style="color: #238636; margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
+          - Image AI Generation
+        </div>
+        <div style="color: #FF6B6B; margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
+          - Voice Cloning
+        </div>
+        <div style="color: #6E5494; margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
+          - Video AI Generation
+        </div>
+        <div style="color: #2F81F7; margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
+          - AI Agents & Automation
+        </div>
+        <div style="color: #238636; margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
+          - Workflow Optimization
+        </div>
+      </div>
     </div>
   </div>
 </div>
@@ -54,7 +86,11 @@
 ![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
-
+![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Strawberry GraphQL](https://img.shields.io/badge/-Strawberry%20GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+![Adonis.js](https://img.shields.io/badge/-Adonis.js-05122A?style=flat&logo=adonisjs)&nbsp;
 
 ### Testing & Automation | Kiểm Thử & Tự Động Hóa
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
@@ -121,6 +157,14 @@
 ![CMD](https://img.shields.io/badge/-CMD-05122A?style=flat&logo=windows-terminal)&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=shell)&nbsp;
 
+### CI/CD Tools | Công Cụ CI/CD
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
+![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-05122A?style=flat&logo=gitlab)&nbsp;
+![TeamCity](https://img.shields.io/badge/-TeamCity-05122A?style=flat&logo=teamcity)&nbsp;
+![Travis CI](https://img.shields.io/badge/-Travis%20CI-05122A?style=flat&logo=travis)&nbsp;
+![Bamboo](https://img.shields.io/badge/-Bamboo-05122A?style=flat&logo=bamboo)&nbsp;
+
 ### Project Management Tools | Công Cụ Quản Lý Dự Án
 ![Jira](https://img.shields.io/badge/-Jira%20On--Premise-05122A?style=flat&logo=jira)&nbsp;
 ![Jira Cloud](https://img.shields.io/badge/-Jira%20Cloud-05122A?style=flat&logo=jira)&nbsp;
@@ -131,7 +175,7 @@
 
 </div>
 
-## 📊 GitHub Analytics (Publish repositories - open source) | Phân Tích GitHub (Chỉ gồm những dự án mã nguồn mở)
+## 📊 GitHub Analytics (Only Publish repositories - Open source) | Phân Tích GitHub (Chỉ gồm những dự án mã nguồn mở)
 
   <!-- Activity Graph with Glassmorphism -->
   <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 10px; padding: 20px; margin: 20px 0;">
@@ -153,7 +197,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulpham157&theme=github-dark-blue&hide_border=true" />
 </div>
 
+<div align="center">
 ## 🤝 Connect with Me | Kết Nối
+</div>
 
 <div align="center">
   
