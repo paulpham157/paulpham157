@@ -1,39 +1,31 @@
 # Hi there! | Xin chào! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
 
-<!-- Load CSS -->
-<link rel="stylesheet" href="style.css">
-
 <div align="center">
   <!-- Animated Title -->
   <div style="background: linear-gradient(45deg, #2F81F7, #238636, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3em; font-weight: bold; margin: 20px 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=35&duration=2800&pause=2000&color=2F81F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Chào+mừng+đến+với+GitHub+của+tôi!;Full-stack+Developer+%26+DevOps+Engineer;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=35&duration=2800&pause=2000&color=2F81F7&center=true&vCenter=true&width=940&lines=Welcome+to+Paul's+GitHub+Profile!;Chào+mừng+đến+với+GitHub+của+Paul!;Full-stack+Developer+%26+DevOps+Engineer;AI+%26+Automation+Enthusiast;LLM+workflow%26AI+agents" alt="Typing SVG" />
   </div>
 
 ## 🚀 About Me | Về Tôi
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
-  <!-- Row 1, Column 1: 3D Hologram -->
-  <div>
-    <img src="5DC4812A-547E-4EC0-AE96-5B12CA03B767_1_105_c.jpeg" alt="Profile Avatar" style="width: 45px; height: 45px; border-radius: 10px; object-fit: cover;">
-  </div>
-
-  <!-- Row 1, Column 2: Ask me about -->
   <div>
     <h3>💬 Ask me about | Hãy hỏi tôi về:</h3>
     <div>
-      - LLMOps
-      - DevOps
-      - SecOps
-      - CI/CD Pipespanne
-      - Test Automation with BDD Framework
-      - Browser Automation
+      LLMOps, DevOps, SecOps, CI/CD Pipespanne
+      - Test Automation with BDD Framework, Browser Automation
+      - Prompt Engineering
+      - OpenAI, Anthopric, Perplexity, DeepSeek, Gemini, xAI (Grok), Heygen, Sesame, Hume, browse-use, Claude code, aider, Cline, imagen3, Elevenlabs, Mistral, Supabase, Boltnew, Firecrawl, Openroute, Grog, Ollama, Huggingface
     </div>
   </div>
 
-  <!-- Row 2, Column 1: I'm interesting with -->
+  <div style="width: 45%; height: 45%; object-fit: cover;">
+    <img src="5DC4812A-547E-4EC0-AE96-5B12CA03B767_1_105_c.jpeg" alt="Profile Avatar" width="100%" heigh="100%">
+  </div>
+
   <div>
     <h3>🌱 I'm interesting with | Tôi quan tâm đến:</h3>
     <div>
-      - Large Language Models (LLM)
+      Large Language Models (LLM)
       - Retrieval Augmented Generation (RAG)
       - Deep Research
       - Text-to-Speech (TTS)
@@ -45,11 +37,6 @@
       - Workflow Optimization
     </div>
   </div>
-  <!-- Row 2, Column 2: Coding GIF -->
-  <div>
-    <img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-  </div>
-
 </div>
 
 ## 🛠️ Tech Stack | Công Nghệ
@@ -67,6 +54,9 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+
 
 ### Testing & Automation | Kiểm Thử & Tự Động Hóa
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
@@ -131,6 +121,14 @@
 ![CMD](https://img.shields.io/badge/-CMD-05122A?style=flat&logo=windows-terminal)&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=shell)&nbsp;
 
+### Project Management Tools | Công Cụ Quản Lý Dự Án
+![Jira](https://img.shields.io/badge/-Jira%20On--Premise-05122A?style=flat&logo=jira)&nbsp;
+![Jira Cloud](https://img.shields.io/badge/-Jira%20Cloud-05122A?style=flat&logo=jira)&nbsp;
+![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
+![Lark Suite](https://img.shields.io/badge/-Lark%20Suite-05122A?style=flat&logo=lark)&nbsp;
+![Odoo](https://img.shields.io/badge/-Odoo-05122A?style=flat&logo=odoo)&nbsp;
+![Zoho](https://img.shields.io/badge/-Zoho-05122A?style=flat&logo=zoho)&nbsp;
+
 </div>
 
 ## 📊 GitHub Analytics (Publish repositories - open source) | Phân Tích GitHub (Chỉ gồm những dự án mã nguồn mở)
@@ -165,4 +163,8 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=google-chrome)](https://paulpham157.github.io/)
 
+</div>
+
+<div>
+    <img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </div>
