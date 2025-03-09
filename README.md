@@ -8,13 +8,13 @@
 
 ## 🚀 About Me | Về Tôi
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
-  <div>
     <h3>💬 Ask me about | Hãy hỏi tôi về:</h3>
+  <div style="text-align: left;">
     <div style="animation: fadeIn 2s ease-in-out; line-height: 1.6;">
-      <div style="font-size: 1.2em; color: #2F81F7; margin-bottom: 15px; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">
-        LLMOps, DevOps, SecOps, CI/CD Pipespanne
+      <div style="font-size: 1.2em; color: #2F81F7; margin-bottom: 15px; text-shadow: 2px 2px 4px rgba(0,0,0,0.1); text-align: left;">
+        - LLMOps, DevOps, SecOps, CI/CD Pipespanne
       </div>
-      <div style="padding-left: 20px; animation: slideIn 1.5s ease-out;">
+      <div style="padding-left: 20px; animation: slideIn 1.5s ease-out; text-align: left;">
         <div style="color: #238636; margin: 8px 0; transform: translateX(0); transition: transform 0.3s ease;">
           - Test Automation with BDD Framework, Browser Automation
         </div>
@@ -22,12 +22,23 @@
           - Prompt Engineering
         </div>
         <div style="color: #6E5494; margin: 8px 0; transform: translateX(0); transition: transform 0.3s ease; line-height: 1.4;">
-          - OpenAI, Anthopric, Perplexity, DeepSeek, Gemini, xAI (Grok), Heygen, Sesame, Hume, browse-use, Claude code, aider, Cline, imagen3, Elevenlabs, Mistral, Supabase, Boltnew, Firecrawl, Openroute, Grog, Ollama, Huggingface
+          - OpenAI, Anthopric, Perplexity, DeepSeek, Gemini, xAI (Grok), Mistral
+        </div>
+        <div style="color: #6E5494; margin: 8px 0; transform: translateX(0); transition: transform 0.3s ease; line-height: 1.4;">
+          - Heygen, Sesame, Hume, imagen3, Elevenlabs
+        </div>
+        <div style="color: #6E5494; margin: 8px 0; transform: translateX(0); transition: transform 0.3s ease; line-height: 1.4;">
+          - Browse-use, Claude code, aider, Cline
+        </div>
+        <div style="color: #6E5494; margin: 8px 0; transform: translateX(0); transition: transform 0.3s ease; line-height: 1.4;">
+          - Supabase, Boltnew, Firecrawl
+        </div>
+        <div style="color: #6E5494; margin: 8px 0; transform: translateX(0); transition: transform 0.3s ease; line-height: 1.4;">
+          - Openroute, Grog, Ollama, Huggingface
         </div>
       </div>
     </div>
   </div>
-
 <img src="paulpham157-avatar-4x6.png" alt="Profile Avatar" width="45%" heigh="45%">
 
   <div>
@@ -38,31 +49,31 @@
       </div>
       <div style="padding-left: 20px; animation: slideIn 1.5s ease-out;">
         <div style="color: #238636; margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
-          - Retrieval Augmented Generation (RAG)
+          Retrieval Augmented Generation (RAG)
         </div>
         <div style="color: #FF6B6B; margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
-          - Deep Research
+          Deep Research
         </div>
         <div style="color: #6E5494; margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
-          - Text-to-Speech (TTS)
+          Text-to-Speech (TTS)
         </div>
         <div style="color: #2F81F7; margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
-          - Streaming Technologies
+          Streaming Technologies
         </div>
         <div style="color: #238636; margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
-          - Image AI Generation
+          Image AI Generation
         </div>
         <div style="color: #FF6B6B; margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
-          - Voice Cloning
+          Voice Cloning
         </div>
         <div style="color: #6E5494; margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
-          - Video AI Generation
+          Video AI Generation
         </div>
         <div style="color: #2F81F7; margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
-          - AI Agents & Automation
+          AI Agents & Automation
         </div>
         <div style="color: #238636; margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
-          - Workflow Optimization
+          Workflow Optimization
         </div>
       </div>
     </div>
