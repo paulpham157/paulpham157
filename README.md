@@ -18,9 +18,7 @@
     </div>
   </div>
 
-  <div style="width: 45%; height: 45%; object-fit: cover;">
-    <img src="5DC4812A-547E-4EC0-AE96-5B12CA03B767_1_105_c.jpeg" alt="Profile Avatar" width="100%" heigh="100%">
-  </div>
+<img src="paulpham157-avatar.png" alt="Profile Avatar" width="45%" heigh="45%">
 
   <div>
     <h3>🌱 I'm interesting with | Tôi quan tâm đến:</h3>
@@ -82,6 +80,8 @@
 ![Trae](https://img.shields.io/badge/-Tauri-05122A?style=flat)&nbsp;
 ![Winsuft](https://img.shields.io/badge/-WinSW-05122A?style=flat)&nbsp;
 ![Zed](https://img.shields.io/badge/-Zed%20AI-05122A?style=flat)&nbsp;
+![Make.com](https://img.shields.io/badge/-Make.com-05122A?style=flat&logo=make)&nbsp;
+![Zapier](https://img.shields.io/badge/-Zapier-05122A?style=flat&logo=zapier)&nbsp;
 
 ### Package Managers | Quản Lý Gói
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
