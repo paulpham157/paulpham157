@@ -3,37 +3,7 @@
 <!-- Load CSS -->
 <link rel="stylesheet" href="style.css">
 
-<!-- Load JavaScript -->
-<script src="script.js"></script>
-
-<!-- 3D Hologram Avatar -->
-<div align="center" style="margin: 20px 0;">
-  <div class="hologram-container" style="position: relative; width: 200px; height: 200px; margin: 0 auto;">
-    <div class="hologram" style="position: relative; width: 100%; height: 100%; transform-style: preserve-3d; animation: float 3s ease-in-out infinite;">
-      <img src="https://avatars.githubusercontent.com/paulpham157" alt="Profile Avatar" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover;">
-      <div class="hologram-ring" style="position: absolute; top: -10px; left: -10px; right: -10px; bottom: -10px; border: 2px solid rgba(47, 129, 247, 0.5); border-radius: 50%; animation: spin 10s linear infinite;"></div>
-      <div class="hologram-glow" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: radial-gradient(circle at 50% 50%, rgba(47, 129, 247, 0.2), transparent); border-radius: 50%; filter: blur(10px); animation: pulse 2s ease-in-out infinite;"></div>
-    </div>
-    <div class="scan-line" style="position: absolute; top: 0; left: 0; right: 0; height: 2px; background: linear-gradient(90deg, transparent, #2F81F7, transparent); animation: scan 2s linear infinite;"></div>
-  </div>
-</div>
-
-<!-- Header Animation -->
-<div id="header-container">
-  <div id="particles-js"></div>
-</div>
-
-<!-- Matrix Rain Effect -->
-<div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; z-index: -1;">
-  <canvas id="matrix" style="opacity: 0.1;"></canvas>
-</div>
-
 <div align="center">
-  <!-- Particle.js Background -->
-  <div id="particles-js" style="position: absolute; width: 100%; height: 100%; z-index: -1;">
-    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-  </div>
-
   <!-- Animated Title -->
   <div style="background: linear-gradient(45deg, #2F81F7, #238636, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3em; font-weight: bold; margin: 20px 0;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=35&duration=2800&pause=2000&color=2F81F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Chào+mừng+đến+với+GitHub+của+tôi!;Full-stack+Developer+%26+DevOps+Engineer;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
@@ -43,14 +13,7 @@
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
   <!-- Row 1, Column 1: 3D Hologram -->
   <div>
-    <div class="hologram-container" style="position: relative; width: 200px; height: 200px; margin: 0 auto;">
-      <div class="hologram" style="position: relative; width: 100%; height: 100%; transform-style: preserve-3d; animation: float 3s ease-in-out infinite;">
-        <img src="5DC4812A-547E-4EC0-AE96-5B12CA03B767_1_105_c.jpeg" alt="Profile Avatar" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover;">
-        <div class="hologram-ring" style="position: absolute; top: -10px; left: -10px; right: -10px; bottom: -10px; border: 2px solid rgba(47, 129, 247, 0.5); border-radius: 50%; animation: spin 10s linear infinite;"></div>
-        <div class="hologram-glow" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: radial-gradient(circle at 50% 50%, rgba(47, 129, 247, 0.2), transparent); border-radius: 50%; filter: blur(10px); animation: pulse 2s ease-in-out infinite;"></div>
-      </div>
-      <div class="scan-line" style="position: absolute; top: 0; left: 0; right: 0; height: 2px; background: linear-gradient(90deg, transparent, #2F81F7, transparent); animation: scan 2s linear infinite;"></div>
-    </div>
+    <img src="5DC4812A-547E-4EC0-AE96-5B12CA03B767_1_105_c.jpeg" alt="Profile Avatar" style="width: 45px; height: 45px; border-radius: 10px; object-fit: cover;">
   </div>
 
   <!-- Row 1, Column 2: Ask me about -->
@@ -202,34 +165,4 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=google-chrome)](https://paulpham157.github.io/)
 
-</div>
-
-<!-- Interactive Terminal -->
-<div id="terminal-container" style="display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 80%; max-width: 800px; height: 60vh; background: rgba(13, 17, 23, 0.95); border-radius: 10px; padding: 20px; z-index: 1000; font-family: 'JetBrains Mono', monospace; overflow: hidden; border: 1px solid rgba(47, 129, 247, 0.3);">
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
-    <div style="display: flex; gap: 8px;">
-      <div style="width: 12px; height: 12px; border-radius: 50%; background: #FF6B6B;"></div>
-      <div style="width: 12px; height: 12px; border-radius: 50%; background: #FFD700;"></div>
-      <div style="width: 12px; height: 12px; border-radius: 50%; background: #2F81F7;"></div>
-    </div>
-    <div style="color: #E3E3E3; font-size: 0.9em;">paulpham157@github:~</div>
-  </div>
-  <div id="terminal-output" style="color: #E3E3E3; height: calc(100% - 80px); overflow-y: auto; margin-bottom: 15px; line-height: 1.5;">
-    Welcome to PaulPham157's Terminal! Type 'help' for available commands.
-  </div>
-  <div style="display: flex; align-items: center; color: #2F81F7;">
-    <span>➜</span>
-    <input type="text" id="terminal-input" style="flex: 1; background: transparent; border: none; color: #E3E3E3; font-family: inherit; margin-left: 10px; outline: none;" autofocus>
-  </div>
-</div>
-
-<!-- Audio Visualizer -->
-<div id="audio-visualizer" style="display: none; position: fixed; bottom: 20px; left: 20px; background: rgba(13, 17, 23, 0.9); border-radius: 10px; padding: 15px; z-index: 1000;">
-  <div style="display: flex; align-items: center; gap: 15px;">
-    <button id="play-button" style="background: none; border: none; color: #2F81F7; cursor: pointer; font-size: 24px;">▶️</button>
-    <canvas id="visualizer-canvas" width="200" height="60" style="border-radius: 5px;"></canvas>
-  </div>
-  <div id="music-info" style="color: #E3E3E3; font-size: 0.9em; margin-top: 10px; text-align: center;">
-    Lofi Coding Mix
-  </div>
 </div>
