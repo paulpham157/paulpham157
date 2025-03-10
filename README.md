@@ -139,6 +139,8 @@
 
 ### CMS & E-commerce | Hệ Thống CMS & Thương Mại Điện Tử
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
+![WooCommerce](https://img.shields.io/badge/-WooCommerce-05122A?style=flat&logo=woocommerce)&nbsp;
+![LearnDash LMS](https://img.shields.io/badge/-LearnDash%20LMS-05122A?style=flat)&nbsp;
 ![Drupal](https://img.shields.io/badge/-Drupal-05122A?style=flat&logo=drupal)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Shopify](https://img.shields.io/badge/-Shopify-05122A?style=flat&logo=shopify)&nbsp;
