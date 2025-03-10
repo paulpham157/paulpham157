@@ -232,7 +232,7 @@
 ### AI tools | Công cụ AI
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=openai)&nbsp;
 ![Claude](https://img.shields.io/badge/-Claude-05122A?style=flat&logo=anthropic)&nbsp;
-![Gemini](https://img.shields.io/badge/-Bard-05122A?style=flat&logo=google)&nbsp;
+![Gemini](https://img.shields.io/badge/-Gemini-05122A?style=flat&logo=google)&nbsp;
 ![LeChat](https://img.shields.io/badge/-LeChat%20Mistral-05122A?style=flat&logo=mistral)&nbsp;
 ![DeepSeek](https://img.shields.io/badge/-DeepSeek-05122A?style=flat&logo=deepseek)&nbsp;
 ![Perplexity](https://img.shields.io/badge/-Perplexity-05122A?style=flat&logo=perplexity)&nbsp;
@@ -251,7 +251,7 @@
 ![Elevenlabs](https://img.shields.io/badge/-Elevenlabs-05122A?style=flat&logo=elevenlabs)&nbsp;
 
 ![Openroute](https://img.shields.io/badge/-Openroute-05122A?style=flat&logo=openroute)&nbsp;
-![Grok](https://img.shields.io/badge/-Grok-05122A?style=flat&logo=xai)&nbsp;
+![Grog](https://img.shields.io/badge/-Grog-05122A?style=flat&logo=xai)&nbsp;
 ![Ollama](https://img.shields.io/badge/-Ollama-05122A?style=flat&logo=ollama)&nbsp;
 
 ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp;
