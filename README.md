@@ -129,6 +129,7 @@
 ### Testing & Automation | Kiểm Thử & Tự Động Hóa
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
 ![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=playwright)&nbsp;
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-05122A?style=flat&logo=puppeteer)&nbsp;
 ![Appium](https://img.shields.io/badge/-Appium-05122A?style=flat&logo=appium)&nbsp;
 ![TestNG](https://img.shields.io/badge/-TestNG-05122A?style=flat&logo=testng)&nbsp;
 ![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber)&nbsp;
@@ -228,6 +229,23 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket)&nbsp;
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-05122A?style=flat&logo=huggingface)&nbsp;
+
+### Admin Tools | Công Cụ Quản Trị
+![Microsoft 365 Admin](https://img.shields.io/badge/-Microsoft%20365%20Admin-05122A?style=flat&logo=microsoft-office)&nbsp;
+![Azure AD](https://img.shields.io/badge/-Azure%20AD-05122A?style=flat&logo=microsoft-azure)&nbsp;
+![Exchange Admin](https://img.shields.io/badge/-Exchange%20Admin-05122A?style=flat&logo=microsoft-exchange)&nbsp;
+![SharePoint Admin](https://img.shields.io/badge/-SharePoint%20Admin-05122A?style=flat&logo=microsoft-sharepoint)&nbsp;
+![Teams Admin](https://img.shields.io/badge/-Teams%20Admin-05122A?style=flat&logo=microsoft-teams)&nbsp;
+![Power Automate](https://img.shields.io/badge/-Power%20Automate-05122A?style=flat&logo=power-automate)&nbsp;
+![Power Apps](https://img.shields.io/badge/-Power%20Apps-05122A?style=flat&logo=power-apps)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=power-bi)&nbsp;
+
+![Google Workspace Admin](https://img.shields.io/badge/-Google%20Workspace%20Admin-05122A?style=flat&logo=google)&nbsp;
+![Google Mailbox](https://img.shields.io/badge/-Google%20Mailbox%20Workspace-05122A?style=flat&logo=gmail)&nbsp;
+![Google Chat](https://img.shields.io/badge/-Google%20Chat-05122A?style=flat&logo=google-chat)&nbsp;
+![Google Groups](https://img.shields.io/badge/-Google%20Groups-05122A?style=flat&logo=google)&nbsp;
+![Google Admin Console](https://img.shields.io/badge/-Google%20Admin%20Console-05122A?style=flat&logo=google)&nbsp;
+![Google Cloud Console](https://img.shields.io/badge/-Google%20Cloud%20Console-05122A?style=flat&logo=google-cloud)&nbsp;
 
 ### AI tools | Công cụ AI
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=openai)&nbsp;
