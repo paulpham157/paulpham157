@@ -258,8 +258,10 @@
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=openai)&nbsp;
 ![Claude](https://img.shields.io/badge/-Claude-05122A?style=flat&logo=anthropic)&nbsp;
 ![Gemini](https://img.shields.io/badge/-Gemini-05122A?style=flat&logo=google)&nbsp;
+
 ![LeChat](https://img.shields.io/badge/-LeChat%20Mistral-05122A?style=flat&logo=mistral)&nbsp;
 ![DeepSeek](https://img.shields.io/badge/-DeepSeek-05122A?style=flat&logo=deepseek)&nbsp;
+![Manus](https://img.shields.io/badge/-Manus-05122A?style=flat&logo=manus)&nbsp;
 ![Perplexity](https://img.shields.io/badge/-Perplexity-05122A?style=flat&logo=perplexity)&nbsp;
 ![NotebookLM](https://img.shields.io/badge/-NotebookLM-05122A?style=flat&logo=google)&nbsp;
 ![Siri](https://img.shields.io/badge/-Siri-05122A?style=flat&logo=apple)&nbsp;
@@ -269,6 +271,7 @@
 ![Aider](https://img.shields.io/badge/-Aider-05122A?style=flat&logo=aider)&nbsp;
 ![Cline](https://img.shields.io/badge/-Cline-05122A?style=flat&logo=cline)&nbsp;
 
+![Suno](https://img.shields.io/badge/-Suno-05122A?style=flat&logo=suno)&nbsp;
 ![Heygen](https://img.shields.io/badge/-Heygen-05122A?style=flat&logo=heygen)&nbsp;
 ![Sesame](https://img.shields.io/badge/-Sesame-05122A?style=flat&logo=sesame)&nbsp;
 ![Hume](https://img.shields.io/badge/-Hume-05122A?style=flat&logo=hume)&nbsp;
@@ -280,6 +283,20 @@
 ![Openroute](https://img.shields.io/badge/-Openroute-05122A?style=flat&logo=openroute)&nbsp;
 ![Grog](https://img.shields.io/badge/-Grog-05122A?style=flat&logo=xai)&nbsp;
 ![Ollama](https://img.shields.io/badge/-Ollama-05122A?style=flat&logo=ollama)&nbsp;
+
+![Botpress](https://img.shields.io/badge/-Botpress-05122A?style=flat&logo=botpress)&nbsp;
+![Dify](https://img.shields.io/badge/-Dify-05122A?style=flat&logo=dify)&nbsp;
+![Coze](https://img.shields.io/badge/-Coze-05122A?style=flat&logo=coze)&nbsp;
+![Mindmaid](https://img.shields.io/badge/-Mindmaid-05122A?style=flat&logo=mindmaid)&nbsp;
+
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-05122A?style=flat&logo=github)&nbsp;
+![Microsoft Copilot](https://img.shields.io/badge/-Microsoft%20Copilot-05122A?style=flat&logo=microsoft)&nbsp;
+![CiCi](https://img.shields.io/badge/-CiCi-05122A?style=flat&logo=cici)&nbsp;
+![Character AI](https://img.shields.io/badge/-Character%20AI-05122A?style=flat&logo=character-ai)&nbsp;
+![Khan Academy](https://img.shields.io/badge/-Khan%20Academy-05122A?style=flat&logo=khan-academy)&nbsp;
+![Poe](https://img.shields.io/badge/-Poe-05122A?style=flat&logo=poe)&nbsp;
+![Sider](https://img.shields.io/badge/-Sider-05122A?style=flat&logo=sider)&nbsp;
+![Monica](https://img.shields.io/badge/-Monica-05122A?style=flat&logo=monica)&nbsp;
 
 ![Intercom](https://img.shields.io/badge/-Intercom-05122A?style=flat&logo=intercom)&nbsp;
 ![AgentQL](https://img.shields.io/badge/-AgentQL-05122A?style=flat&logo=graphql)&nbsp;
