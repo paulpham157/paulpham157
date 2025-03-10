@@ -149,10 +149,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea)&nbsp;
 ![Cursor](https://img.shields.io/badge/-Cursor-05122A?style=flat&logo=cursor)&nbsp;
-![Trae](https://img.shields.io/badge/-Tauri-05122A?style=flat)&nbsp;
-![Winsuft](https://img.shields.io/badge/-WinSW-05122A?style=flat)&nbsp;
+![Trae](https://img.shields.io/badge/-Trae-05122A?style=flat)&nbsp;
+![Winsuft](https://img.shields.io/badge/-Winsuft-05122A?style=flat)&nbsp;
 ![Zed](https://img.shields.io/badge/-Zed%20AI-05122A?style=flat)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Charles Proxy](https://img.shields.io/badge/-Charles%20Proxy-05122A?style=flat&logo=charles)&nbsp;
+![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)&nbsp;
 
 ### Package Managers | Quản Lý Gói
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
