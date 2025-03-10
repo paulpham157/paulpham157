@@ -293,6 +293,7 @@
 
 ![Replit](https://img.shields.io/badge/-Replit-05122A?style=flat&logo=replit)&nbsp;
 ![Boltnew](https://img.shields.io/badge/-Boltnew-05122A?style=flat&logo=bolt)&nbsp;
+![Lovable](https://img.shields.io/badge/-Lovable-05122A?style=flat&logo=lovable)&nbsp;
 
 </div>
 
