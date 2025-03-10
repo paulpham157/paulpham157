@@ -163,7 +163,7 @@
 ![Conda](https://img.shields.io/badge/-Conda-05122A?style=flat&logo=anaconda)&nbsp;
 ![Bun](https://img.shields.io/badge/-Bun-05122A?style=flat&logo=bun)&nbsp;
 
-### Server & Cloud | Máy chủ & Đám Mây
+### Server, hosting & Cloud | Máy chủ & Đám Mây
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
@@ -171,6 +171,7 @@
 ![Vultr](https://img.shields.io/badge/-Vultr-05122A?style=flat&logo=vultr)&nbsp;
 ![GoDaddy](https://img.shields.io/badge/-GoDaddy-05122A?style=flat&logo=godaddy)&nbsp;
 ![CMC](https://img.shields.io/badge/-CMC-05122A?style=flat)&nbsp;
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-05122A?style=flat&logo=digitalocean)&nbsp;
 
 ![TenTen](https://img.shields.io/badge/-TenTen-05122A?style=flat)&nbsp;
 ![PA Vietnam](https://img.shields.io/badge/-PA%20Vietnam-05122A?style=flat)&nbsp;
@@ -247,6 +248,12 @@
 ![Google Admin Console](https://img.shields.io/badge/-Google%20Admin%20Console-05122A?style=flat&logo=google)&nbsp;
 ![Google Cloud Console](https://img.shields.io/badge/-Google%20Cloud%20Console-05122A?style=flat&logo=google-cloud)&nbsp;
 
+### Marketing Tools | Công Cụ Marketing
+![Mixpanel](https://img.shields.io/badge/-Mixpanel-05122A?style=flat&logo=mixpanel)&nbsp;
+![Zendesk](https://img.shields.io/badge/-Zendesk-05122A?style=flat&logo=zendesk)&nbsp;
+![HubSpot](https://img.shields.io/badge/-HubSpot-05122A?style=flat&logo=hubspot)&nbsp;
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-05122A?style=flat&logo=google-analytics)&nbsp;
+
 ### AI tools | Công cụ AI
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=openai)&nbsp;
 ![Claude](https://img.shields.io/badge/-Claude-05122A?style=flat&logo=anthropic)&nbsp;
@@ -267,14 +274,25 @@
 ![Hume](https://img.shields.io/badge/-Hume-05122A?style=flat&logo=hume)&nbsp;
 ![Imagen3](https://img.shields.io/badge/-Imagen3-05122A?style=flat&logo=imagen)&nbsp;
 ![Elevenlabs](https://img.shields.io/badge/-Elevenlabs-05122A?style=flat&logo=elevenlabs)&nbsp;
+![KlingAI](https://img.shields.io/badge/-KlingAI-05122A?style=flat&logo=klingai)&nbsp;
+![Shakker](https://img.shields.io/badge/-Shakker-05122A?style=flat&logo=shakker)&nbsp;
 
 ![Openroute](https://img.shields.io/badge/-Openroute-05122A?style=flat&logo=openroute)&nbsp;
 ![Grog](https://img.shields.io/badge/-Grog-05122A?style=flat&logo=xai)&nbsp;
 ![Ollama](https://img.shields.io/badge/-Ollama-05122A?style=flat&logo=ollama)&nbsp;
 
+![Intercom](https://img.shields.io/badge/-Intercom-05122A?style=flat&logo=intercom)&nbsp;
+![AgentQL](https://img.shields.io/badge/-AgentQL-05122A?style=flat&logo=graphql)&nbsp;
+![Coval](https://img.shields.io/badge/-Coval-05122A?style=flat&logo=coval)&nbsp;
+![Exa](https://img.shields.io/badge/-Exa-05122A?style=flat&logo=exa)&nbsp;
+![Index](https://img.shields.io/badge/-Index-05122A?style=flat&logo=index)&nbsp;
+![Langbase](https://img.shields.io/badge/-Langbase-05122A?style=flat&logo=langbase)&nbsp;
+![Langfuse](https://img.shields.io/badge/-Langfuse-05122A?style=flat&logo=langfuse)&nbsp;
 ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp;
-![Boltnew](https://img.shields.io/badge/-Boltnew-05122A?style=flat&logo=bolt)&nbsp;
 ![Firecrawl](https://img.shields.io/badge/-Firecrawl-05122A?style=flat&logo=firebase)&nbsp;
+
+![Replit](https://img.shields.io/badge/-Replit-05122A?style=flat&logo=replit)&nbsp;
+![Boltnew](https://img.shields.io/badge/-Boltnew-05122A?style=flat&logo=bolt)&nbsp;
 
 </div>
 
