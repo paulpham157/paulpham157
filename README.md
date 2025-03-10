@@ -261,11 +261,6 @@
 </div>
 
 ## 📊 GitHub Analytics (Only Publish repositories - Open source) | Phân Tích GitHub (Chỉ gồm những dự án mã nguồn mở)
-  <!-- Wakatime Stats with Glassmorphism -->
-  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 10px; padding: 20px; margin: 20px 0;">
-    <img src="https://wakatime.com/share/@paulpham157/d6f8d2e7-c1e7-4ad9-b1f2-6af884be7529.svg" width="100%" alt="Wakatime Stats">
-  </div>
-
   <!-- Activity Graph with Glassmorphism -->
   <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 10px; padding: 20px; margin: 20px 0;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulpham157&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph">
@@ -286,8 +281,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulpham157&theme=github-dark-blue&hide_border=true" />
 </div>
 
-<div align="center">
-## 🤝 Connect with Me | Kết Nối
+<div align="center" style="font-size: 24px; font-weight: bold; margin: 20px 0 35px 0;">
+🤝 Connect with Me | Kết Nối 🤝
 </div>
 
 <div align="center">
