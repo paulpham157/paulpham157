@@ -266,6 +266,7 @@
 ![Perplexity](https://img.shields.io/badge/-Perplexity-05122A?style=flat&logo=perplexity)&nbsp;
 ![NotebookLM](https://img.shields.io/badge/-NotebookLM-05122A?style=flat&logo=google)&nbsp;
 ![Siri](https://img.shields.io/badge/-Siri-05122A?style=flat&logo=apple)&nbsp;
+![Cohere](https://img.shields.io/badge/-Cohere-05122A?style=flat&logo=cohere)&nbsp;
 
 ![Browse-use](https://img.shields.io/badge/-Browse--use-05122A?style=flat&logo=browse-use)&nbsp;
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-05122A?style=flat&logo=anthropic)&nbsp;
