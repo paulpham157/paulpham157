@@ -109,6 +109,8 @@
 ![Celery](https://img.shields.io/badge/-Celery-05122A?style=flat&logo=celery)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
 ![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=chainlink)&nbsp;
+![CUDA](https://img.shields.io/badge/-CUDA-05122A?style=flat&logo=nvidia)&nbsp;
+![NIM](https://img.shields.io/badge/-NIM-05122A?style=flat&logo=nvidia)&nbsp;
 
 ### Database & Storage | Cơ Sở Dữ Liệu & Lưu Trữ
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
@@ -267,6 +269,7 @@
 ![NotebookLM](https://img.shields.io/badge/-NotebookLM-05122A?style=flat&logo=google)&nbsp;
 ![Siri](https://img.shields.io/badge/-Siri-05122A?style=flat&logo=apple)&nbsp;
 ![Cohere](https://img.shields.io/badge/-Cohere-05122A?style=flat&logo=cohere)&nbsp;
+![Qwen](https://img.shields.io/badge/-Qwen-05122A?style=flat&logo=alibaba)&nbsp;
 
 ![Browse-use](https://img.shields.io/badge/-Browse--use-05122A?style=flat&logo=browse-use)&nbsp;
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-05122A?style=flat&logo=anthropic)&nbsp;
