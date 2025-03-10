@@ -3,7 +3,7 @@
 <div align="center">
   <!-- Animated Title -->
   <div style="background: linear-gradient(45deg, #2F81F7, #238636, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3em; font-weight: bold; margin: 20px 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=35&duration=2800&pause=2000&color=2F81F7&center=true&vCenter=true&width=940&lines=Welcome+to+Paul's+GitHub+Profile!;Chào+mừng+đến+với+GitHub+của+Paul!;Full-stack+Developer+%26+DevSecOps+Engineer;AI+%26+Automation+Enthusiast;LLM+workflow+%26+AI+agents" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=35&duration=2800&pause=2000&color=2F81F7&center=true&vCenter=true&width=940&lines=Welcome+to+Paul's+GitHub+Profile!;Chào+mừng+đến+với+GitHub+của+Hùng!;Full-stack+Developer+%26+DevSecOps+Engineer;AI+%26+Automation+Enthusiast;LLM+workflow+%26+AI+agents" alt="Typing SVG" />
   </div>
 
 ## 🚀 About Me | Về Tôi
