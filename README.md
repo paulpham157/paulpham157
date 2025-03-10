@@ -106,6 +106,9 @@
 ![Adonis.js](https://img.shields.io/badge/-Adonis.js-05122A?style=flat&logo=adonisjs)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
+![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-05122A?style=flat&logo=font-awesome)&nbsp;
+![Clerk](https://img.shields.io/badge/-Clerk-05122A?style=flat&logo=clerk)&nbsp;
+![CKEditor](https://img.shields.io/badge/-CKEditor-05122A?style=flat&logo=ckeditor)&nbsp;
 ![Celery](https://img.shields.io/badge/-Celery-05122A?style=flat&logo=celery)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
 ![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=chainlink)&nbsp;
