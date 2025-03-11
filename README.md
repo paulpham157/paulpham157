@@ -118,6 +118,7 @@
 ![NIM](https://img.shields.io/badge/-NIM-05122A?style=flat&logo=nvidia)&nbsp;
 ![CodeceptJS](https://img.shields.io/badge/-CodeceptJS-05122A?style=flat&logo=codeceptjs)&nbsp;
 ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-05122A?style=flat&logo=llama)&nbsp;
+![Amazon Bedrock](https://img.shields.io/badge/-Amazon%20Bedrock-05122A?style=flat&logo=amazon-aws)&nbsp;
 
 ### Database & Storage | Cơ Sở Dữ Liệu & Lưu Trữ
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
@@ -281,6 +282,7 @@
 ![Siri](https://img.shields.io/badge/-Siri-05122A?style=flat&logo=apple)&nbsp;
 ![Cohere](https://img.shields.io/badge/-Cohere-05122A?style=flat&logo=cohere)&nbsp;
 ![Qwen](https://img.shields.io/badge/-Qwen-05122A?style=flat&logo=alibaba)&nbsp;
+![Llama3](https://img.shields.io/badge/-Llama3-05122A?style=flat&logo=meta)&nbsp;
 
 ![Browse-use](https://img.shields.io/badge/-Browse--use-05122A?style=flat&logo=browse-use)&nbsp;
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-05122A?style=flat&logo=anthropic)&nbsp;
