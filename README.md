@@ -361,7 +361,7 @@
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://paulpham157.github.io/" alt="Contact QR Code">
 </p>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=google-chrome)](https://paulpham157.github.io/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=google-chrome)](https://paulpham157.github.io/){:target="_blank"}
 
 </div>
 
