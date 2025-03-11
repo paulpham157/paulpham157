@@ -102,6 +102,7 @@
 ![CodeceptJS](https://img.shields.io/badge/-CodeceptJS-05122A?style=flat&logo=codeceptjs)&nbsp;
 ![Flatsome](https://img.shields.io/badge/-Flatsome-05122A?style=flat&logo=wordpress)&nbsp;
 
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
