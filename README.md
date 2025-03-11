@@ -94,29 +94,34 @@
 ![AutoIt](https://img.shields.io/badge/-AutoIt-05122A?style=flat&logo=autoit)&nbsp;
 ![Liquid](https://img.shields.io/badge/-Liquid-05122A?style=flat&logo=liquid)&nbsp;
 
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
-![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Strawberry GraphQL](https://img.shields.io/badge/-Strawberry%20GraphQL-05122A?style=flat&logo=graphql)&nbsp;
-![Adonis.js](https://img.shields.io/badge/-Adonis.js-05122A?style=flat&logo=adonisjs)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
 ![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-05122A?style=flat&logo=font-awesome)&nbsp;
 ![Clerk](https://img.shields.io/badge/-Clerk-05122A?style=flat&logo=clerk)&nbsp;
 ![CKEditor](https://img.shields.io/badge/-CKEditor-05122A?style=flat&logo=ckeditor)&nbsp;
+![CodeceptJS](https://img.shields.io/badge/-CodeceptJS-05122A?style=flat&logo=codeceptjs)&nbsp;
+![Flatsome](https://img.shields.io/badge/-Flatsome-05122A?style=flat&logo=wordpress)&nbsp;
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)&nbsp;
+![Adonis.js](https://img.shields.io/badge/-Adonis.js-05122A?style=flat&logo=adonisjs)&nbsp;
+
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
+
+![CUDA](https://img.shields.io/badge/-CUDA-05122A?style=flat&logo=nvidia)&nbsp;
+![NIM](https://img.shields.io/badge/-NIM-05122A?style=flat&logo=nvidia)&nbsp;
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Strawberry GraphQL](https://img.shields.io/badge/-Strawberry%20GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 ![Celery](https://img.shields.io/badge/-Celery-05122A?style=flat&logo=celery)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
 ![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=chainlink)&nbsp;
-![CUDA](https://img.shields.io/badge/-CUDA-05122A?style=flat&logo=nvidia)&nbsp;
-![NIM](https://img.shields.io/badge/-NIM-05122A?style=flat&logo=nvidia)&nbsp;
-![CodeceptJS](https://img.shields.io/badge/-CodeceptJS-05122A?style=flat&logo=codeceptjs)&nbsp;
 ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-05122A?style=flat&logo=llama)&nbsp;
 ![Amazon Bedrock](https://img.shields.io/badge/-Amazon%20Bedrock-05122A?style=flat&logo=amazon-aws)&nbsp;
 
@@ -173,6 +178,17 @@
 ![Yarn](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn)&nbsp;
 ![Conda](https://img.shields.io/badge/-Conda-05122A?style=flat&logo=anaconda)&nbsp;
 ![Bun](https://img.shields.io/badge/-Bun-05122A?style=flat&logo=bun)&nbsp;
+![Homebrew](https://img.shields.io/badge/-Homebrew-05122A?style=flat&logo=homebrew)&nbsp;
+![APT](https://img.shields.io/badge/-APT-05122A?style=flat&logo=debian)&nbsp;
+![Pacman](https://img.shields.io/badge/-Pacman-05122A?style=flat&logo=archlinux)&nbsp;
+![DPKG](https://img.shields.io/badge/-DPKG-05122A?style=flat&logo=debian)&nbsp;
+![RPM](https://img.shields.io/badge/-RPM-05122A?style=flat&logo=redhat)&nbsp;
+![YUM](https://img.shields.io/badge/-YUM-05122A?style=flat&logo=redhat)&nbsp;
+![APK](https://img.shields.io/badge/-APK-05122A?style=flat&logo=alpine-linux)&nbsp;
+![DNF](https://img.shields.io/badge/-DNF-05122A?style=flat&logo=fedora)&nbsp;
+![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven)&nbsp;
+![Chocolatey](https://img.shields.io/badge/-Chocolatey-05122A?style=flat&logo=chocolatey)&nbsp;
+![WinGet](https://img.shields.io/badge/-WinGet-05122A?style=flat&logo=windows)&nbsp;
 
 ### Server, hosting & Cloud | Máy chủ & Đám Mây
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-05122A?style=flat&logo=amazon-aws)&nbsp;
@@ -192,6 +208,7 @@
 ![Nhan Hoa](https://img.shields.io/badge/-Nhan%20Hoa-05122A?style=flat)&nbsp;
 ![Interdata](https://img.shields.io/badge/-Interdata-05122A?style=flat)&nbsp;
 ![Hostinger](https://img.shields.io/badge/-Hostinger-05122A?style=flat&logo=hostinger)&nbsp;
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)&nbsp;
 
 ### Operating Systems | Hệ Điều Hành
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
@@ -207,9 +224,17 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi%20OS-05122A?style=flat&logo=raspberry-pi)&nbsp;
 ![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian)&nbsp;
 ![LineageOS](https://img.shields.io/badge/-LineageOS-05122A?style=flat&logo=lineageos)&nbsp;
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kali-linux)&nbsp;
+![CentOS](https://img.shields.io/badge/-CentOS-05122A?style=flat&logo=centos)&nbsp;
 
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
 ![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache)&nbsp;
+![OpenWrt](https://img.shields.io/badge/-OpenWrt-05122A?style=flat&logo=openwrt)&nbsp;
+![Pi-hole](https://img.shields.io/badge/-Pi--hole-05122A?style=flat&logo=pi-hole)&nbsp;
+![OpenSSL](https://img.shields.io/badge/-OpenSSL-05122A?style=flat&logo=openssl)&nbsp;
+![OpenVPN](https://img.shields.io/badge/-OpenVPN-05122A?style=flat&logo=openvpn)&nbsp;
+![Certbot](https://img.shields.io/badge/-Certbot-05122A?style=flat&logo=letsencrypt)&nbsp;
+![ACME](https://img.shields.io/badge/-ACME-05122A?style=flat&logo=letsencrypt)&nbsp;
 
 ### Shell Scripting | Lập Trình Shell
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)&nbsp;
