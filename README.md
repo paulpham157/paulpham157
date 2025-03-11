@@ -92,6 +92,7 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
 ![AutoIt](https://img.shields.io/badge/-AutoIt-05122A?style=flat&logo=autoit)&nbsp;
+![Liquid](https://img.shields.io/badge/-Liquid-05122A?style=flat&logo=liquid)&nbsp;
 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -116,6 +117,7 @@
 ![CUDA](https://img.shields.io/badge/-CUDA-05122A?style=flat&logo=nvidia)&nbsp;
 ![NIM](https://img.shields.io/badge/-NIM-05122A?style=flat&logo=nvidia)&nbsp;
 ![CodeceptJS](https://img.shields.io/badge/-CodeceptJS-05122A?style=flat&logo=codeceptjs)&nbsp;
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-05122A?style=flat&logo=llama)&nbsp;
 
 ### Database & Storage | Cơ Sở Dữ Liệu & Lưu Trữ
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
@@ -225,12 +227,16 @@
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-05122A?style=flat&logo=docker)&nbsp;
 
 ### Project Management Tools | Công Cụ Quản Lý Dự Án
-![Jira](https://img.shields.io/badge/-Jira%20On--Premise-05122A?style=flat&logo=jira)&nbsp;
-![Jira Cloud](https://img.shields.io/badge/-Jira%20Cloud-05122A?style=flat&logo=jira)&nbsp;
+![Jira Software On-Premise](https://img.shields.io/badge/-Jira%20Software%20On--Premise-05122A?style=flat&logo=jira)&nbsp;
+![Jira Software Cloud](https://img.shields.io/badge/-Jira%20Software%20Cloud-05122A?style=flat&logo=jira)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
 ![Lark Suite](https://img.shields.io/badge/-Lark%20Suite-05122A?style=flat&logo=lark)&nbsp;
 ![Odoo](https://img.shields.io/badge/-Odoo-05122A?style=flat&logo=odoo)&nbsp;
 ![Zoho](https://img.shields.io/badge/-Zoho-05122A?style=flat&logo=zoho)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;
+![MISA AMIS](https://img.shields.io/badge/-MISA%20AMIS-05122A?style=flat&logo=misa)&nbsp;
+![ClickUp](https://img.shields.io/badge/-ClickUp-05122A?style=flat&logo=clickup)&nbsp;
+![Fastwork](https://img.shields.io/badge/-Fastwork-05122A?style=flat)&nbsp;
 
 ### Source Code Control | Quản Lý Mã Nguồn
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
