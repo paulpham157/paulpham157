@@ -348,12 +348,7 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulpham157&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulpham157&layout=compact&theme=github_dark&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulpham157&theme=github-dark-blue&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" />
 </div>
 
 <div align="center" style="font-size: 24px; font-weight: bold; margin: 20px 0 35px 0;">
