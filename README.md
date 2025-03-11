@@ -95,6 +95,7 @@
 ![Liquid](https://img.shields.io/badge/-Liquid-05122A?style=flat&logo=liquid)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
 ![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-05122A?style=flat&logo=font-awesome)&nbsp;
@@ -102,15 +103,18 @@
 ![CKEditor](https://img.shields.io/badge/-CKEditor-05122A?style=flat&logo=ckeditor)&nbsp;
 ![CodeceptJS](https://img.shields.io/badge/-CodeceptJS-05122A?style=flat&logo=codeceptjs)&nbsp;
 ![Flatsome](https://img.shields.io/badge/-Flatsome-05122A?style=flat&logo=wordpress)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
 
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)&nbsp;
 ![Adonis.js](https://img.shields.io/badge/-Adonis.js-05122A?style=flat&logo=adonisjs)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)&nbsp;
 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
@@ -118,6 +122,15 @@
 ![CUDA](https://img.shields.io/badge/-CUDA-05122A?style=flat&logo=nvidia)&nbsp;
 ![NIM](https://img.shields.io/badge/-NIM-05122A?style=flat&logo=nvidia)&nbsp;
 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
+![Transformers](https://img.shields.io/badge/-Transformers-05122A?style=flat&logo=huggingface)&nbsp;
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scipy)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Strawberry GraphQL](https://img.shields.io/badge/-Strawberry%20GraphQL-05122A?style=flat&logo=graphql)&nbsp;
@@ -132,6 +145,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
+![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)&nbsp;
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
@@ -174,6 +188,9 @@
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Charles Proxy](https://img.shields.io/badge/-Charles%20Proxy-05122A?style=flat&logo=charles)&nbsp;
 ![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
 
 ### Package Managers | Quản Lý Gói
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
