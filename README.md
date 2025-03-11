@@ -93,6 +93,7 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
 ![AutoIt](https://img.shields.io/badge/-AutoIt-05122A?style=flat&logo=autoit)&nbsp;
 ![Liquid](https://img.shields.io/badge/-Liquid-05122A?style=flat&logo=liquid)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
