@@ -283,6 +283,7 @@
 ![Cohere](https://img.shields.io/badge/-Cohere-05122A?style=flat&logo=cohere)&nbsp;
 ![Qwen](https://img.shields.io/badge/-Qwen-05122A?style=flat&logo=alibaba)&nbsp;
 ![Llama3](https://img.shields.io/badge/-Llama3-05122A?style=flat&logo=meta)&nbsp;
+![Grok](https://img.shields.io/badge/-Grok-05122A?style=flat&logo=x)&nbsp;
 
 ![Browse-use](https://img.shields.io/badge/-Browse--use-05122A?style=flat&logo=browse-use)&nbsp;
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-05122A?style=flat&logo=anthropic)&nbsp;
