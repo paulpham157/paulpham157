@@ -184,6 +184,7 @@
 ![CMC](https://img.shields.io/badge/-CMC-05122A?style=flat)&nbsp;
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-05122A?style=flat&logo=digitalocean)&nbsp;
 
+![Inet](https://img.shields.io/badge/-Inet-05122A?style=flat)&nbsp;
 ![TenTen](https://img.shields.io/badge/-TenTen-05122A?style=flat)&nbsp;
 ![PA Vietnam](https://img.shields.io/badge/-PA%20Vietnam-05122A?style=flat)&nbsp;
 ![Mat Bao](https://img.shields.io/badge/-Mat%20Bao-05122A?style=flat)&nbsp;
@@ -298,6 +299,8 @@
 ![Elevenlabs](https://img.shields.io/badge/-Elevenlabs-05122A?style=flat&logo=elevenlabs)&nbsp;
 ![KlingAI](https://img.shields.io/badge/-KlingAI-05122A?style=flat&logo=klingai)&nbsp;
 ![Shakker](https://img.shields.io/badge/-Shakker-05122A?style=flat&logo=shakker)&nbsp;
+![Runnaway](https://img.shields.io/badge/-Runnaway-05122A?style=flat&logo=runnaway)&nbsp;
+![Dall-E 3](https://img.shields.io/badge/-Dall--E%203-05122A?style=flat&logo=openai)&nbsp;
 
 ![Openroute](https://img.shields.io/badge/-Openroute-05122A?style=flat&logo=openroute)&nbsp;
 ![Grog](https://img.shields.io/badge/-Grog-05122A?style=flat&logo=xai)&nbsp;
