@@ -191,6 +191,12 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
+![ngrok](https://img.shields.io/badge/-ngrok-05122A?style=flat&logo=ngrok)&nbsp;
+![localtunnel](https://img.shields.io/badge/-localtunnel-05122A?style=flat)&nbsp;
+![Continue.dev](https://img.shields.io/badge/-Continue.dev-05122A?style=flat)&nbsp;
+![SuperMaven](https://img.shields.io/badge/-SuperMaven-05122A?style=flat)&nbsp;
+![Qdoo](https://img.shields.io/badge/-Qdoo-05122A?style=flat)&nbsp;
+![VSCodium](https://img.shields.io/badge/-VSCodium-05122A?style=flat&logo=vscodium)&nbsp;
 
 ### Package Managers | Quản Lý Gói
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
@@ -345,9 +351,10 @@
 ![Shakker](https://img.shields.io/badge/-Shakker-05122A?style=flat&logo=shakker)&nbsp;
 ![Runnaway](https://img.shields.io/badge/-Runnaway-05122A?style=flat&logo=runnaway)&nbsp;
 ![Dall-E 3](https://img.shields.io/badge/-Dall--E%203-05122A?style=flat&logo=openai)&nbsp;
+![Veo2](https://img.shields.io/badge/-Veo2-05122A?style=flat&logo=veo2)&nbsp;
 
-![Openroute](https://img.shields.io/badge/-Openroute-05122A?style=flat&logo=openroute)&nbsp;
-![Grog](https://img.shields.io/badge/-Grog-05122A?style=flat&logo=xai)&nbsp;
+![Openrouter](https://img.shields.io/badge/-Openrouter-05122A?style=flat&logo=openrouter)&nbsp;
+![GrogCloud](https://img.shields.io/badge/-GrogCloud-05122A?style=flat&logo=xai)&nbsp;
 ![Ollama](https://img.shields.io/badge/-Ollama-05122A?style=flat&logo=ollama)&nbsp;
 
 ![Botpress](https://img.shields.io/badge/-Botpress-05122A?style=flat&logo=botpress)&nbsp;
