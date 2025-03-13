@@ -116,6 +116,8 @@
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)&nbsp;
 ![Three.js](https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=three.js)&nbsp;
+![InertiaJS](https://img.shields.io/badge/-InertiaJS-05122A?style=flat&logo=inertia)&nbsp;
+![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)&nbsp;
 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
