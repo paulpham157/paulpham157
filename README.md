@@ -215,6 +215,7 @@
 ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven)&nbsp;
 ![Chocolatey](https://img.shields.io/badge/-Chocolatey-05122A?style=flat&logo=chocolatey)&nbsp;
 ![WinGet](https://img.shields.io/badge/-WinGet-05122A?style=flat&logo=windows)&nbsp;
+![PM2](https://img.shields.io/badge/-PM2-05122A?style=flat&logo=pm2)&nbsp;
 
 ### Server, hosting & Cloud | Máy chủ & Đám Mây
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-05122A?style=flat&logo=amazon-aws)&nbsp;
