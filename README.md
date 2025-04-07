@@ -172,6 +172,7 @@
 ![n8n](https://img.shields.io/badge/-n8n-05122A?style=flat&logo=n8n)&nbsp;
 ![Make.com](https://img.shields.io/badge/-Make.com-05122A?style=flat&logo=make)&nbsp;
 ![Zapier](https://img.shields.io/badge/-Zapier-05122A?style=flat&logo=zapier)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
 
 ### CMS & E-commerce | Hệ Thống CMS & Thương Mại Điện Tử
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
