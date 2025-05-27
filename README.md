@@ -80,6 +80,9 @@
 
 ## 🛠️ Tech Stack | Công Nghệ
 
+<details>
+<summary><b>Click to see full | Nhấn để xem toàn bộ</b></summary>
+
 <div align="center">
 
 ### Languages & Frameworks | Ngôn Ngữ & Framework
@@ -392,9 +395,11 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)&nbsp;
 
+
+</details>
 </div>
 
-## 📊 GitHub Analytics (Only Publish repositories - Open source) | Phân Tích GitHub (Chỉ gồm những dự án mã nguồn mở)
+## Open source | Mã nguồn mở
   <!-- Activity Graph with Glassmorphism -->
   <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 10px; padding: 20px; margin: 20px 0;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulpham157&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph">
@@ -406,12 +411,32 @@
   </div>
 </div>
 
+<p align="center" style="font-size: 24px; font-weight: bold; margin: 10px 0 10px 0">
+  <img src="https://img.shields.io/github/stars/paulpham157?style=social" alt="Total Stars">
+</p>
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulpham157&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
-<div align="center" style="font-size: 24px; font-weight: bold; margin-bottom: 35px;">
-🤝 Connect with Me | Kết Nối 🤝
+```txt
+I'm pretty busy right now.
+So if you have any questions/ideals, 
+text/email straight to the point. 
+Don't just say "Hello" 
+and you'll be waiting all day/week!
+```
+
+```txt
+Hiện tại, tôi/em đang khá bận. 
+Vì vậy, nếu quan tâm tới vấn đề gì, 
+hãy nhắn tin/email ngay vào trọng tâm. 
+Không "alo, anh/em/bạn ơi" 
+là chờ cả ngày/tuần đấy!
+```
+
+<div align="center" style="font-size: 24px; font-weight: bold; margin: 25px 0 25px 0;">
+Connect Me 🤝 Kết Nối
 <br>
 </div>
 
@@ -425,8 +450,4 @@
   <img src="https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=google-chrome" alt="Portfolio">
 </a>
 
-</div>
-
-<div>
-    <img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </div>
