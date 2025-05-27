@@ -1,87 +1,60 @@
-# Hi there! | Xin chào! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
-
-<div align="center">
-  <!-- Animated Title -->
-  <div style="background: linear-gradient(45deg, #2F81F7, #238636, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3em; font-weight: bold; margin: 20px 0;">
+# Hi there! | Xin chào! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="55" height="55" />
+<div style="background: linear-gradient(45deg, #2F81F7, #238636, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3em; font-weight: bold; margin: 20px 0;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=35&duration=2800&pause=2000&color=2F81F7&center=true&vCenter=true&width=940&lines=Welcome+to+Paul's+GitHub+Profile!;Chào+mừng+đến+với+GitHub+của+Hùng!;Full-stack+Developer+%26+DevSecOps+Engineer;AI+%26+Automation+Enthusiast;LLM+workflow+%26+AI+agents" alt="Typing SVG" />
-  </div>
+</div>
 
 ## 🚀 About Me | Về Tôi
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
-    <h3>💬 Ask me about | Hãy hỏi tôi về:</h3>
-    <div style="animation: fadeIn 2s ease-in-out; line-height: 1.6;">
-      <div style="font-size: 1.2em; margin-bottom: 15px; text-shadow: 2px 2px 4px rgba(0,0,0,0.1); text-align: left;">
-        LLMOps, DevOps, SecOps, CI/CD Pipespanne
-      </div>
-      <div style="padding-left: 20px; animation: slideIn 1.5s ease-out; text-align: left;">
-        <div style="margin: 8px 0; transform: translateX(0); transition: transform 0.3s ease;">
-          Test Automation with BDD Framework, Browser Automation
-        </div>
-        <div style="margin: 8px 0; transform: translateX(0); transition: transform 0.3s ease;">
-          Prompt Engineering
-        </div>
-        <div style="margin: 8px 0; transform: translateX(0); transition: transform 0.3s ease; line-height: 1.4;">
-          OpenAI, Anthopric, Perplexity, DeepSeek, Gemini, xAI (Grok), Mistral
-        </div>
-        <div style="margin: 8px 0; transform: translateX(0); transition: transform 0.3s ease; line-height: 1.4;">
-          Heygen, Sesame, Hume, imagen3, Elevenlabs
-        </div>
-        <div style="margin: 8px 0; transform: translateX(0); transition: transform 0.3s ease; line-height: 1.4;">
-          Browse-use, Claude code, aider, Cline
-        </div>
-        <div style="margin: 8px 0; transform: translateX(0); transition: transform 0.3s ease; line-height: 1.4;">
-          Supabase, Boltnew, Firecrawl
-        </div>
-        <div style="margin: 8px 0; transform: translateX(0); transition: transform 0.3s ease; line-height: 1.4;">
-          Openroute, Grog, Ollama, Huggingface
-        </div>
-      </div>
-  </div>
-<img src="paulpham157-avatar-4x6.png" alt="Profile Avatar" width="45%" heigh="45%">
 
-  <div>
-    <h3>🌱 I'm interesting with | Tôi quan tâm đến:</h3>
-    <div style="animation: fadeIn 2s ease-in-out; line-height: 1.8;">
-      <div style="font-size: 1.3em; margin-bottom: 15px; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">
-        Large Language Models (LLM)
-      </div>
-      <div style="padding-left: 20px; animation: slideIn 1.5s ease-out;">
-        <div style="margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
-          Retrieval Augmented Generation (RAG)
-        </div>
-        <div style="margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
-          Deep Research
-        </div>
-        <div style="margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
-          Text-to-Speech (TTS)
-        </div>
-        <div style="margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
-          Streaming Technologies
-        </div>
-        <div style="margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
-          Image AI Generation
-        </div>
-        <div style="margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
-          Voice Cloning
-        </div>
-        <div style="margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
-          Video AI Generation
-        </div>
-        <div style="margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
-          AI Agents & Automation
-        </div>
-        <div style="margin: 10px 0; transform: translateX(0); transition: transform 0.3s ease;">
-          Workflow Optimization
-        </div>
-      </div>
-    </div>
-  </div>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 20px 0;">
+
+<div>
+
+### 💬 Ask me about | Hãy hỏi tôi về:
+
+- LLMOps, DevOps, SecOps, CI/CD Pipespanne
+- Test Automation with BDD Framework
+- Browser Automation
+- Prompt Engineering
+- OpenAI, Anthropic, Perplexity, DeepSeek
+- Gemini, xAI (Grok), Mistral
+- Heygen, Sesame, Hume, Imagen3, Elevenlabs
+- Browse-use, Claude code, aider, Cline
+- Supabase, Boltnew, Firecrawl
+- Openroute, Grog, Ollama, Huggingface
+
+</div>
+
+<div>
+
+### 🖼️ This is me | Ảnh thật ngoài đời
+
+![Profile Avatar](paulpham157-avatar-4x6.png)
+
+</div>
+
+<div>
+
+### 🌱 I'm interested in | Tôi quan tâm đến:
+
+- Large Language Models (LLM)
+- Retrieval Augmented Generation (RAG)
+- Deep Research
+- Text-to-Speech (TTS)
+- Streaming Technologies
+- Image AI Generation
+- Voice Cloning
+- Video AI Generation
+- AI Agents & Automation
+- Workflow Optimization
+
+</div>
+
 </div>
 
 ## 🛠️ Tech Stack | Công Nghệ
 
 <details>
-<summary><b>Click to see full | Nhấn để xem toàn bộ</b></summary>
+<summary><b>Click to see | Nhấn để xem</b></summary>
 
 <div align="center">
 
@@ -419,6 +392,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulpham157&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
+
 ```txt
 I'm pretty busy right now.
 So if you have any questions/ideals, 
@@ -434,20 +409,5 @@ hãy nhắn tin/email ngay vào trọng tâm.
 Không "alo, anh/em/bạn ơi" 
 là chờ cả ngày/tuần đấy!
 ```
-
-<div align="center" style="font-size: 24px; font-weight: bold; margin: 25px 0 25px 0;">
-Connect Me 🤝 Kết Nối
-<br>
-</div>
-
-<div align="center">
-  
-<p align="center">
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://paulpham157.github.io/" alt="Contact QR Code">
-</p>
-
-<a href="https://paulpham157.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=google-chrome" alt="Portfolio">
-</a>
 
 </div>
