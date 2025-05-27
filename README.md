@@ -5,18 +5,18 @@
 
 ## 🚀 About Me | Về Tôi
 
-| ### 💬 Ask me about \| Hãy hỏi tôi về: | ### 🌱 I'm interested in \| Tôi quan tâm đến: |
+| 💬 Ask me about \| Hãy hỏi tôi về: | 🌱 I'm interested in \| Tôi quan tâm đến: |
 |----------|----------|
-| - LLMOps, DevOps, SecOps, CI/CD Pipespanne | - RAG, Graph RAG, Agentic RAG |
-| - Browser/Mobile application Automation with BDD Framework | - Any new method/library that is supposed to be better than transformer |
-| - Server, VPS, Cloud, Database, Distributed cluster, Load balancing, Networking | - Fine tuning pre-trained LLM model |
-| - Design system, System architecture | - TTS, STT stand alone in mobile device |
-| - OpenAI API & OpenAI Compatible API | - Streaming Technologies |
-| - Other LLM API libraries, SDKs | - Image Generation, Video Generation, Voice Cloning/Dubling |
-| - Langchain framework, Langraph, Swarm | - Prompt Engineering, Deep Research |
-| - Interpreter, Running code environment for AI agents such as Browser-use, Daytona, B2E... | - MCP, A2A... Since A2A I've been left behind. There are so many new concepts and things. Really looking forward to understanding them. |
-| - Workflow Optimization, Agents & Automation | - Open Source projects |
-| - Supabase, Appwrite, Firecrawl... many new SaaS, BaaS, tools | - And YOU, I am interest in you :D |
+| LLMOps, DevOps, SecOps, CI/CD Pipespanne | RAG, Graph RAG, Agentic RAG |
+| Browser/Mobile application Automation with BDD Framework | Any new method/library that is supposed to be better than transformer |
+| Server, VPS, Cloud, Database, Distributed cluster, Load balancing, Networking | Fine tuning pre-trained LLM model |
+| Design system, System architecture | TTS, STT stand alone in mobile device |
+| OpenAI API & OpenAI Compatible API | Streaming Technologies |
+| Other LLM API libraries, SDKs | Image Generation, Video Generation, Voice Cloning/Dubling |
+| Langchain framework, Langraph, Swarm | Prompt Engineering, Deep Research |
+| Interpreter, Running code environment for AI agents such as Browser-use, Daytona, B2E... | MCP, A2A... Since A2A I've been left behind. There are so many new concepts and things. Really looking forward to understanding them. |
+| Workflow Optimization, Agents & Automation | Open Source projects |
+| Supabase, Appwrite, Firecrawl... many new SaaS, BaaS, tools | And YOU, I am interest in you :D |
 
 ### 🖼️ This is me | Ảnh thật ngoài đời
 
