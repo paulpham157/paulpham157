@@ -5,7 +5,7 @@
 
 ## 🚀 About Me | Về Tôi
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 20px 0;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: row; gap: 20px; margin: 20px 0;">
 
 <div>
 
@@ -24,7 +24,7 @@
 
 </div>
 
-<div>
+<div style="max-width: 250px;">
 
 ### 🖼️ This is me | Ảnh thật ngoài đời
 
@@ -392,7 +392,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulpham157&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: row; gap: 20px; margin: 20px 0;">
+<div>
 
 ```txt
 I'm pretty busy right now.
@@ -402,6 +403,9 @@ Don't just say "Hello"
 and you'll be waiting all day/week!
 ```
 
+</div>
+<div>
+
 ```txt
 Hiện tại, tôi/em đang khá bận. 
 Vì vậy, nếu quan tâm tới vấn đề gì, 
@@ -410,4 +414,5 @@ Không "alo, anh/em/bạn ơi"
 là chờ cả ngày/tuần đấy!
 ```
 
+</div>
 </div>
