@@ -5,51 +5,22 @@
 
 ## 🚀 About Me | Về Tôi
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: row; gap: 20px; margin: 20px 0;">
-
-<div>
-
-### 💬 Ask me about | Hãy hỏi tôi về:
-
-- LLMOps, DevOps, SecOps, CI/CD Pipespanne
-- Test Automation with BDD Framework
-- Browser Automation
-- Prompt Engineering
-- OpenAI, Anthropic, Perplexity, DeepSeek
-- Gemini, xAI (Grok), Mistral
-- Heygen, Sesame, Hume, Imagen3, Elevenlabs
-- Browse-use, Claude code, aider, Cline
-- Supabase, Boltnew, Firecrawl
-- Openroute, Grog, Ollama, Huggingface
-
-</div>
-
-<div style="max-width: 250px;">
+| ### 💬 Ask me about \| Hãy hỏi tôi về: | ### 🌱 I'm interested in \| Tôi quan tâm đến: |
+|----------|----------|
+| - LLMOps, DevOps, SecOps, CI/CD Pipespanne | - RAG, Graph RAG, Agentic RAG |
+| - Browser/Mobile application Automation with BDD Framework | - Any new method/library that is supposed to be better than transformer |
+| - Server, VPS, Cloud, Database, Distributed cluster, Load balancing, Networking | - Fine tuning pre-trained LLM model |
+| - Design system, System architecture | - TTS, STT stand alone in mobile device |
+| - OpenAI API & OpenAI Compatible API | - Streaming Technologies |
+| - Other LLM API libraries, SDKs | - Image Generation, Video Generation, Voice Cloning/Dubling |
+| - Langchain framework, Langraph, Swarm | - Prompt Engineering, Deep Research |
+| - Interpreter, Running code environment for AI agents such as Browser-use, Daytona, B2E... | - MCP, A2A... Since A2A I've been left behind. There are so many new concepts and things. Really looking forward to understanding them. |
+| - Workflow Optimization, Agents & Automation | - Open Source projects |
+| - Supabase, Appwrite, Firecrawl... many new SaaS, BaaS, tools | - And YOU, I am interest in you :D |
 
 ### 🖼️ This is me | Ảnh thật ngoài đời
 
-![Profile Avatar](paulpham157-avatar-4x6.png)
-
-</div>
-
-<div>
-
-### 🌱 I'm interested in | Tôi quan tâm đến:
-
-- Large Language Models (LLM)
-- Retrieval Augmented Generation (RAG)
-- Deep Research
-- Text-to-Speech (TTS)
-- Streaming Technologies
-- Image AI Generation
-- Voice Cloning
-- Video AI Generation
-- AI Agents & Automation
-- Workflow Optimization
-
-</div>
-
-</div>
+<img src="paulpham157-avatar-4x6.png" alt="Paul Pham avatar" width="250" height="auto" />
 
 ## 🛠️ Tech Stack | Công Nghệ
 
