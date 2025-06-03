@@ -1,5 +1,5 @@
 # community_bridge: PaulPham157-Profile
-github: [paulpham157]
+github: [paulpham157, paul-pham-157]
 # issuehunt: paulpham157
 ko_fi: paulpham157
 # liberapay: paulpham157
@@ -9,4 +9,8 @@ patreon: PaulPham157
 # polar: paulpham157
 # buy_me_a_coffee: paulpham157
 # thanks_dev: u/gh/paulpham157
-custom: ['https://www.paypal.me/hungpham2302']
+custom: [
+  'https://www.paypal.me/hungpham2302',
+  'https://github.com/paulpham157/paulpham157/blob/main/vn_banking_transfer_paulpham157_PHAM_DINH_HUNG.jpg',
+  # 'https://www.paypal.me/paulpham157',
+]
