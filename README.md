@@ -343,11 +343,9 @@
 </details>
 </div>
 
-## Open source | Mã nguồn mở
-  <!-- Activity Graph with Glassmorphism -->
-  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 10px; padding: 20px; margin: 20px 0;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulpham157&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph">
-  </div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulpham157&layout=compact&theme=github_dark&hide_border=true" />
+</div>
 
   <!-- Trophy with Neon Effect -->
   <div style="filter: drop-shadow(0 0 10px #2F81F7);">
@@ -358,10 +356,6 @@
 <p align="center" style="font-size: 24px; font-weight: bold; margin: 10px 0 10px 0">
   <img src="https://img.shields.io/github/stars/paulpham157?style=social" alt="Total Stars">
 </p>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulpham157&layout=compact&theme=github_dark&hide_border=true" />
-</div>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: row; gap: 20px; margin: 20px 0;">
 <div>
