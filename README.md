@@ -5,18 +5,28 @@
 
 ## 🚀 About Me | Về Tôi
 
-| 💬 Ask me about \| Hãy hỏi tôi về: | 🌱 I'm interested in \| Tôi quan tâm đến: |
+| 💬 Ask me about \| Hãy hỏi tôi về: |
 |----------|----------|
-| LLMOps, DevOps, SecOps, CI/CD Pipespanne | RAG, Graph RAG, Agentic RAG |
-| Browser/Mobile application Automation with BDD Framework | Any new method/library that is supposed to be better than transformer |
-| Server, VPS, Cloud, Database, Distributed cluster, Load balancing, Networking | Fine tuning pre-trained LLM model |
-| Design system, System architecture | TTS, STT stand alone in mobile device |
-| OpenAI API & OpenAI Compatible API | Streaming Technologies |
-| Other LLM API libraries, SDKs | Image Generation, Video Generation, Voice Cloning/Dubling |
-| Langchain framework, Langraph, Swarm | Prompt Engineering, Deep Research |
-| Interpreter, Running code environment for AI agents such as Browser-use, Daytona, B2E... | MCP, A2A... Since A2A I've been left behind. There are so many new concepts and things. Really looking forward to understanding them. |
-| Workflow Optimization, Agents & Automation | Open Source projects |
-| Supabase, Appwrite, Firecrawl... many new SaaS, BaaS, tools | And YOU, I am interest in you :D |
+| LLMOps, DevOps, SecOps, CI/CD Pipespanne |
+| Browser/Mobile application Automation with BDD Framework |
+| Server, VPS, Cloud, Database, Distributed cluster, Load balancing, Networking |
+| Design system, System architecture |
+| OpenAI API & OpenAI Compatible API |
+| Other LLM API libraries, SDKs |
+| Langchain framework, Langraph, Swarm |
+| Interpreter, Running code environment for AI agents such as Browser-use, Daytona, B2E... |
+| Workflow Optimization, Agents & Automation |
+| Supabase, Appwrite, Firecrawl... many new SaaS, BaaS, tools |
+
+| 🌱 I'm interested in \| Tôi quan tâm đến: |
+|----------|
+| RAG, Graph RAG, Agentic RAG, LangGraph, LangChain |
+| Any new framework/library that open source |
+| Fine tuning pre-trained LLM model |
+| Image Generation, Video Generation, Voice Cloning/Dubling, TTS, STT |
+| Prompt Engineering, Deep Research |
+| MCP, Claude Code hooks, skills, subagents... |
+| A2A, A2P... Since A2A I've been left behind. There are so many new concepts and things. Really looking forward to understanding them. |
 
 ### 🖼️ This is me | Ảnh thật ngoài đời
 
@@ -341,21 +351,8 @@
 
 
 </details>
-</div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulpham157&layout=compact&theme=github_dark&hide_border=true" />
-</div>
-
-  <!-- Trophy with Neon Effect -->
-  <div style="filter: drop-shadow(0 0 10px #2F81F7);">
-    <img src="https://github-profile-trophy.vercel.app/?username=paulpham157&theme=darkhub&no-frame=true&row=1&column=7" width="100%" alt="Trophy" />
-  </div>
-</div>
-
-<p align="center" style="font-size: 24px; font-weight: bold; margin: 10px 0 10px 0">
-  <img src="https://img.shields.io/github/stars/paulpham157?style=social" alt="Total Stars">
-</p>
+> Planning to learn Rust this year 2026.
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: row; gap: 20px; margin: 20px 0;">
 <div>
