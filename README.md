@@ -6,7 +6,7 @@
 ## 🚀 About Me | Về Tôi
 
 | 💬 Ask me about \| Hãy hỏi tôi về: |
-|----------|----------|
+|----------|
 | LLMOps, DevOps, SecOps, CI/CD Pipespanne |
 | Browser/Mobile application Automation with BDD Framework |
 | Server, VPS, Cloud, Database, Distributed cluster, Load balancing, Networking |
@@ -32,7 +32,7 @@
 
 <img src="paulpham157-avatar-4x6.png" alt="Paul Pham avatar" width="250" height="auto" />
 
-## 🛠️ Tech Stack | Công Nghệ
+## 🛠️ Tech Stack
 
 <details>
 <summary><b>Click to see | Nhấn để xem</b></summary>
