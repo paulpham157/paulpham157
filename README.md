@@ -8,23 +8,21 @@
 | 💬 Ask me about \| Hãy hỏi tôi về: |
 |----------|
 | LLMOps, DevOps, SecOps, CI/CD Pipespanne |
-| Browser/Mobile application Automation with BDD Framework |
-| Server, VPS, Cloud, Database, Distributed cluster, Load balancing, Networking |
-| Design system, System architecture |
+| Browser/Mobile application Automation testing with BDD Framework |
+| Server, VPS, Cloud, Database, Distributed cluster, Load balancing, Networking, SA |
 | OpenAI API & OpenAI Compatible API |
-| Other LLM API libraries, SDKs |
-| Langchain framework, Langraph, Swarm |
-| Interpreter, Running code environment for AI agents such as Browser-use, Daytona, B2E... |
-| Workflow Optimization, Agents & Automation |
-| Supabase, Appwrite, Firecrawl... many new SaaS, BaaS, tools |
+| Other LLM libraries, SDKs |
+| Langchain framework, LangGraph, LangGraph Swarm |
+| Sandbox runtime for AI agents such as Browser-use, Daytona, B2E... |
+| N8N Workflow Optimization, Agents & Automation |
 
 | 🌱 I'm interested in \| Tôi quan tâm đến: |
 |----------|
 | RAG, Graph RAG, Agentic RAG, LangGraph, LangChain |
 | Any new framework/library that open source |
-| Fine tuning pre-trained LLM model |
+| Fine tuning, pre-trained LLM model |
 | Image Generation, Video Generation, Voice Cloning/Dubling, TTS, STT |
-| Prompt Engineering, Deep Research |
+| Prompt Engineering, Deep Research, agentic tools |
 | MCP, Claude Code hooks, skills, subagents... |
 | A2A, A2P... Since A2A I've been left behind. There are so many new concepts and things. Really looking forward to understanding them. |
 
